@@ -1,6 +1,6 @@
 from Array import Myarray
 
-tosin = Myarray()
+tosin = Myarray([])
 
 #Append
 tosin.my_append("tosin")
